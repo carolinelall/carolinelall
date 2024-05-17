@@ -2,8 +2,8 @@
 <h3 align="center"> A passionate technology enthusiast with a keen interest in frontend, backend technologies and open-source development etc.</h3>
 <h3  align="center"> I enjoy solving complex problems and building innovative solutions that makes a difference.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolinelall" alt="carolinelall" /></a> </p>
+<br> <br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolinelall" alt="carolinelall" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS and Express JS**
 
