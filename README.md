@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Caroline</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">a passionate masters student in computer application and technology enthusiast with a keen interest in frontend and backend technologies and open-source development etc. I enjoy solving complex problems and building innovative solutions that makes a difference.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinelall&label=Profile%20views&color=0e75b6&style=flat" alt="carolinelall" /> </p>
 
@@ -12,6 +11,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/carolinelall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="carolinelall" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lallcaroline600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lallcaroline600" height="30" width="40" /></a>
+<a href="https://discord.gg/caroline47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="caroline47" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinelall&show_icons=true&locale=en&layout=compact" alt="carolinelall" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinelall&show_icons=true&locale=en" alt="carolinelall" /></p>
-
