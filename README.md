@@ -3,6 +3,8 @@
 <h3  align="center"> I enjoy solving complex problems and building innovative solutions that makes a difference.</h3>
 
 <br> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carolinelall&label=Profile%20views&color=0e75b6&style=flat" alt="carolinelall" /> </p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolinelall" alt="carolinelall" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS and Express JS**
